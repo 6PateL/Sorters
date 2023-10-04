@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorters", "Sorters\Sorters.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortersTests", "SortersTests\SortersTests.csproj", "{C920F6AD-975F-4A24-85EE-C4C1A8D96522}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortAlgorithms", "WindowsFormsApp1\SortAlgorithms.csproj", "{FBB4171B-978A-461E-9AB4-E5FA7944DEED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C920F6AD-975F-4A24-85EE-C4C1A8D96522}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C920F6AD-975F-4A24-85EE-C4C1A8D96522}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C920F6AD-975F-4A24-85EE-C4C1A8D96522}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBB4171B-978A-461E-9AB4-E5FA7944DEED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBB4171B-978A-461E-9AB4-E5FA7944DEED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBB4171B-978A-461E-9AB4-E5FA7944DEED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBB4171B-978A-461E-9AB4-E5FA7944DEED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

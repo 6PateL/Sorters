@@ -9,7 +9,7 @@ namespace Sorters
 {
     public class BubbleSort<T> : AlgortihtmBase<T> where T : IComparable
     {
-        public override void Sort()
+        protected override void MakeSort()
         {
             var count = Items.Count; 
 
@@ -22,7 +22,8 @@ namespace Sorters
 
                     if(a.CompareTo(b) == 1)
                     {
-                        Swap(j, j + 1); 
+                        Swap(j, j + 1);
+                        ComprasionCount++;
                     }
                 }
             }
