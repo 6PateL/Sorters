@@ -10,16 +10,6 @@ namespace Sorters
     {
         static void Main(string[] args)
         {
-            int[] c = { 1, 2, 3, 4, 5 }; 
-
-            for(int i = 0; i < c.Length; i++)
-            {
-                if (c[i] < c[i - 1])
-                {
-                    c[i] = c[i - 1];
-                    Console.WriteLine(c[i]);
-                }
-            }
         }
     }
 }
