@@ -59,6 +59,7 @@
     <Compile Include="InsertSortTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ShakeSortTests.cs" />
+    <Compile Include="ShellSortTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
