@@ -59,6 +59,7 @@
     <Compile Include="HeapSortTests.cs" />
     <Compile Include="InsertSortTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QuickSortTests.cs" />
     <Compile Include="ShakeSortTests.cs" />
     <Compile Include="ShellSortTests.cs" />
     <Compile Include="TreeSortTests.cs" />
